@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonclone-dev-132921-authRole",
+      "UnauthRoleArn": "arn:aws:iam::733328664694:role/amplify-amazonclone-dev-132921-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::733328664694:role/amplify-amazonclone-dev-132921-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-amazonclone-dev-132921-deployment",
+      "UnauthRoleName": "amplify-amazonclone-dev-132921-unauthRole",
+      "StackName": "amplify-amazonclone-dev-132921",
+      "StackId": "arn:aws:cloudformation:us-west-1:733328664694:stack/amplify-amazonclone-dev-132921/36259740-d6e9-11ec-aa75-06ecf4eccc3b"
+    }
+  },
+  "newdev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonclone-newdev-140202-authRole",
+      "UnauthRoleArn": "arn:aws:iam::733328664694:role/amplify-amazonclone-newdev-140202-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::733328664694:role/amplify-amazonclone-newdev-140202-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-amazonclone-newdev-140202-deployment",
+      "UnauthRoleName": "amplify-amazonclone-newdev-140202-unauthRole",
+      "StackName": "amplify-amazonclone-newdev-140202",
+      "StackId": "arn:aws:cloudformation:us-west-1:733328664694:stack/amplify-amazonclone-newdev-140202/c688f3a0-d6ed-11ec-824d-02a2e72a2b6f",
+      "AmplifyAppId": "d2vzo5zsr128s7"
+    },
+    "categories": {
+      "auth": {
+        "amazonclone6d565557": {}
+      }
+    }
+  }
+}
